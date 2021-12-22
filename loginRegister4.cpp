@@ -12,8 +12,6 @@ int main()
 {
     system("cls");
     int choice;
-    cout << "Test.";
-    cout << "Test.";
 
     cout << "\t\t\t_____________________________________________\n";
     cout << "\t\t\tWelcome to the new and improved Login System!\n";
